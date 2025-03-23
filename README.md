@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/lazychannel">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lazychannel&count=4&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lazychannel&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
